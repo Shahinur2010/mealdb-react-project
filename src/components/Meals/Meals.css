@@ -1,0 +1,23 @@
+.meals{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap:5px;
+}
+
+.meals-container{
+    padding: 5px 10px;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap:10px;
+}
+
+h3{
+    text-align: center;
+}
+
+.outcome{
+    padding: 10px 30px;
+    border: 3px solid gray;
+    background-color: coral;
+    height: 300px;
+}

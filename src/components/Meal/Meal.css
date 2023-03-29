@@ -1,0 +1,30 @@
+.meal{
+    background-color:bisque;
+    border: 2px solid red;
+    width: 75%;
+    height: 100%;
+}
+
+.meal img{
+    width:90%;
+    height: 50%;
+    padding: 10px;
+}
+
+.meal h3{
+    text-align: left;
+    padding-left: 15px;
+}
+
+.meal p{
+    padding-left: 15px;
+}
+
+.meal-info{
+    display: flex;
+  
+}
+
+.btn-add{
+    margin-left: 10px;
+}
